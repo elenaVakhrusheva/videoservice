@@ -76,7 +76,7 @@ h3.h3 {
 /* line 55, style.scss */
 .checkbox__new::after {
   content: "";
-  background-image: url("/img/checkbox.svg");
+  background-image: url("/videoservice/img/checkbox.svg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
